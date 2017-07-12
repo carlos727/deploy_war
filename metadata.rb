@@ -1,0 +1,8 @@
+name 'deploy_war'
+maintainer 'Carlos Beleño Caballero'
+maintainer_email 'cbeleno@redsis.com'
+license 'all_rights'
+version '2.0.1'
+description 'Cookbook/Process deploy_war'
+long_description 'Cookbook to make a war deploy/update in a big number of nodes.'
+depends 'windows', '~> 1.44.1'
